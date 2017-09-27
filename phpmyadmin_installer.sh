@@ -55,5 +55,6 @@ ln -sf /usr/share/phpmyadmin/ /var/www/html/phpmyadmin
 clear
  echo "phpmyadmin has been installed, Login to your pannel ( yourip/phpmyadmin ) with username root and your choosen password"
 sleep 7
+exit
 
 
